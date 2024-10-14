@@ -1,0 +1,34 @@
+{
+  "setting": {
+    "newFeature": true,
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": false,
+    "checkSiteMap": false,
+    "autoAudits": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "packNpmRelationList": [],
+    "compileHotReLoad": false,
+    "uglifyFileName": true,
+    "enhance": true
+  },
+  "appid": "wx28d420fc5e86db0a",
+  "projectname": "modern-art",
+  "description": "150 Years Modern Art",
+  "condition": {},
+  "compileType": "miniprogram",
+  "libVersion": "3.6.2",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
