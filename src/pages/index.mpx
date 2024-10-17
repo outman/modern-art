@@ -16,6 +16,7 @@ createPage({
   {
     "usingComponents": {
       "list": "../components/list"
-    }
+    },
+    "navigationBarTitleText": "现代艺术 150 年概览"
   }
 </script>
