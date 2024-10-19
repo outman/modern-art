@@ -6,8 +6,10 @@ mpx.use(apiProxy, { usePromise: true })
 
 createApp({
   onLaunch() {
-    //
-    console.log('__mpx_domain__', __mpx_domain__)
+    mpx.showShareMenu({
+      withShareTicket: true,
+      menus: ['shareAppMessage', 'shareTimeline']
+    })
   }
 })
 </script>
