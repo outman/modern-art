@@ -8,7 +8,7 @@
 
 ```javascript
 
-export DOMAIN=https://art-1254118938.cos.ap-beijing.myqcloud.com
+export DOMAIN=image_host_domain
 
 // development
 npm run serve // 小程序本地开发构建
